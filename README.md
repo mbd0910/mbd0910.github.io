@@ -1,6 +1,6 @@
 Personal website powered by GitHub pages
 
-[michaeldavis.xyz](michaeldavis.xyz)
+[michaeldavis.xyz](https://michaeldavis.xyz)
 
 ## Running locally
 
