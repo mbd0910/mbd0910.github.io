@@ -40,5 +40,5 @@ Children truly can be our greatest teachers.
 
 * * *
 
-Check out [Part 1]( __GHOST_URL__ /my-mental-health-journey-part-1/) if you missed it.
+Check out [Part 1]({% link _posts/2021-09-22-my-mental-health-journey-part-1.markdown %}) if you missed it.
 

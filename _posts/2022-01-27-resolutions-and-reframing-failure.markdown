@@ -46,7 +46,5 @@ I’ve noticed that I get pretty low a couple of days after drinking. I rarely g
 ### Help me
 <!--kg-card-end: markdown-->
 
-If you’re reading this and finding it useful, please please please subscribe and encourage your friends to do so. I’d love to reach a bigger audience and help as many people as possible. Just hit the big subscribe button on the website. It costs nothing and lets me know that people are reading.
 
-Thanks!
 

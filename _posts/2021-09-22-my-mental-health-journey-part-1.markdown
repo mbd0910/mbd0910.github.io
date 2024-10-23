@@ -30,5 +30,5 @@ Acceptance is one of the key recurring themes I've experienced on my journey. Co
 
 * * *
 
-Check out [part 2]( __GHOST_URL__ /my-mental-health-journey-part-2/) here.
+Check out [part 2]({% link _posts/2021-09-29-my-mental-health-journey-part-2.markdown %}) here.
 
